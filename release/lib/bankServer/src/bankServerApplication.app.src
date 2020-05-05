@@ -1,0 +1,8 @@
+{application, %APPNAME%,
+ [{description, ""},
+  {vsn, "%VSN%"},
+  {modules, [%MODULES%]},
+  {registered, [bankServerApplication]},
+  {applications, [kernel, stdlib]},
+  {mod, {%APPNAME%, []}},
+  {env, [{my_env1, "application example"},{bNameArg, %iti%}]}]}.

@@ -1,0 +1,5 @@
+{release, {"ApplicationRelease","1.0.1"}, {erts, "10.7"},
+[{kernel,"6.5.2"},
+{stdlib,"3.12"},
+{bankServerApplication,"1.0.0"}
+]}.
