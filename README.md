@@ -1,4 +1,4 @@
 # BankServer 
 Erlang/OTP
-*.HTML linguist-language=Erlang
+*.Html linguist-language=Erlang
 
