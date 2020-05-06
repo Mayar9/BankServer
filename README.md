@@ -1,4 +1,5 @@
 # BankServer 
 Erlang/OTP
-*.Html linguist-language=Erlang
+*.html linguist-detectable=false
+*.Erlang linguist-detectable=true
 
