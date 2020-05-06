@@ -1,5 +1,5 @@
 # BankServer 
 Erlang/OTP
-*.html linguist-detectable=false
+*.hTML linguist-detectable=false
 *.Erlang linguist-detectable=true
 
